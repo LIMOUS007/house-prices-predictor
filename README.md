@@ -24,6 +24,15 @@ Final model selected: Ridge Regression (alpha = 5).
 
 ---
 
+## Results (Kaggle)
+
+Best public leaderboard score: **9.46024**  
+Kaggle competition: *House Prices – Advanced Regression Techniques*
+
+This score was achieved using Ridge Regression (alpha = 5) after systematic feature engineering and missing-value handling.
+
+---
+
 ## How to run
 ```bash
 pip install -r requirements.txt
@@ -32,4 +41,5 @@ python house_prices.py
 ---
 
 This will output:
+
 - submissions/submission_ridge.csv 
