@@ -39,7 +39,8 @@ pip install -r requirements.txt
 python house_prices.py
 
 ---
-
+```
 This will output:
 
 - submissions/submission_ridge.csv 
+
